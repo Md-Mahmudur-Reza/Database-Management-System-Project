@@ -1,0 +1,64 @@
+body
+{
+    font-size =  ;
+    background-color:#ffffe5;
+}
+
+.header
+{
+    background: #006e6d;
+    font-family: 'Century Gothic' ;
+    font-size: 35px ;
+    text-align : center;
+    width : 30% ;
+    margin : 70px auto 0px ;
+    border : 1px solid #006e6d ;
+    border-radius:  10px 10px 0px 0px ;
+    padding : 20px ;
+    color : white ;
+    
+    
+}
+
+ #form
+{
+    width : 29.9% ;
+    background :  ;
+    padding : 20px ;
+    font-family: 'Century Gothic';
+    margin : 0px auto ;
+    border : 1px solid #006e6d ;
+    border-radius: 0px 0px 10px 10px ;
+}
+
+#uname
+{
+    margin : 10px 0px ;
+    height: 30px;
+    width: 93%;
+    padding: 5px 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+#pass
+{
+    margin : 10px 0px 0px 0px ;
+    height: 30px;
+    width: 93%;
+    padding: 5px 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+#submit
+{
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    background: #006e6d;
+    border: none;
+    border-radius: 5px;
+}
